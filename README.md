@@ -1,31 +1,37 @@
-Proyecto Spring Boot Backend
-Este repositorio contiene el backend de un proyecto desarrollado utilizando Java Spring Boot. El backend está diseñado para ofrecer múltiples funcionalidades que serán integradas en un frontend en el futuro. Todos los métodos han sido exhaustivamente probados utilizando Postman para garantizar su correcto funcionamiento.
+# Proyecto Spring Boot Backend
 
-Tabla de Contenidos
-Descripción
-Tecnologías Utilizadas
-Instalación
-Uso
-Pruebas
-Contribución
-Contacto
-Descripción
-Este proyecto es un backend construido con Spring Boot, diseñado para proporcionar una serie de funcionalidades robustas y escalables. El backend está preparado para servir datos a una futura interfaz de usuario y ha sido desarrollado con las mejores prácticas en mente para asegurar su eficiencia y mantenibilidad.
+Este repositorio contiene el backend de un proyecto desarrollado utilizando **Java Spring Boot**. El backend está diseñado para ofrecer múltiples funcionalidades que serán integradas en un frontend en el futuro. Todos los métodos han sido exhaustivamente probados utilizando Postman para garantizar su correcto funcionamiento.
 
-Tecnologías Utilizadas
-Java 17
-Spring Boot 3.3.1
-Maven
-Postman (para pruebas)
-Instalación
+## Tabla de Contenidos
+
+- [Descripción](#descripción)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Pruebas](#pruebas)
+- [Contribución](#contribución)
+- [Contacto](#contacto)
+
+## Descripción
+
+Este proyecto es un backend construido con **Spring Boot**, diseñado para proporcionar una serie de funcionalidades robustas y escalables. El backend está preparado para servir datos a una futura interfaz de usuario y ha sido desarrollado con las mejores prácticas en mente para asegurar su eficiencia y mantenibilidad.
+
+## Tecnologías Utilizadas
+
+- **Java 17**
+- **Spring Boot 3.3.1**
+- **Maven**
+- **Postman** (para pruebas)
+
+## Instalación
+
 Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
-Clona el repositorio:
+1. Clona el repositorio:
 
-bash
-Copiar código
-git clone https://github.com/tu-usuario/nombre-del-repositorio.git
-Navega al directorio del proyecto:
+   ```bash
+   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+
 
 bash
 Copiar código
